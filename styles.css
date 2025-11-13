@@ -129,7 +129,7 @@ nav ul li a:hover {
   margin-bottom: 24px;
 }
 
-.Lees-meer {
+.lees-meer {
   background-color: #4b1e2a;
   color: white;
   border: none;
@@ -140,7 +140,8 @@ nav ul li a:hover {
   cursor: pointer;
 }
 
-.Lees-meer:hover {
+.lees-meer:hover {
+  color: #D4AF37;
   background-color: #3a1620;
 }
 
