@@ -65,6 +65,22 @@ nav ul li a:hover {
   background-color: rgba(227, 11, 11, 0.269);
 }
 
+.taalNederlands, .taalEngels {
+  background-color: #4b1e2a;
+  color: white;
+  border: 2px solid white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.taalNederlands:hover, .taalEngels:hover {
+  color: #D4AF37;
+  background-color: #3a1620;
+}
+
 .hero-section {
   background-color: #a89f91;
   padding: 80px 0;
@@ -293,3 +309,4 @@ footer {
   border-radius: 50%;
   object-fit: cover;
 }
+
