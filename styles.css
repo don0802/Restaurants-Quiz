@@ -28,6 +28,12 @@ header {
   top: 0;
 }
 
+.map-route {
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+}
+
 header > div {
   display: flex;
   align-items: center;
@@ -38,6 +44,16 @@ header > div {
   width: 200px;
   height: auto;
   border-radius: 8px;
+}
+
+.route {
+  display: flex;
+  justify-content: center;
+}
+
+.container-route {
+  display: flex;
+  justify-content: center;
 }
 
 header h1 {
